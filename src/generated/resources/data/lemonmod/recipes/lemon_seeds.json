@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "lemonmod:lemon_slice"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "lemonmod:lemon_seeds"
+  }
+}
